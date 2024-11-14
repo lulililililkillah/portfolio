@@ -1,0 +1,49 @@
+body{
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header{
+    background-color: #333;
+    color: #555;
+    padding: 1em;
+    text-align: center;
+}
+
+section{
+    padding: 20px;
+}
+
+h2{
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.5em;
+}
+
+#projects .project{
+    margin: 1em 0;
+}
+
+.project h3{
+    color: #333;
+}
+
+.project p{
+    margin: 0.5em 0;
+}
+
+.project a{
+    text-decoration: solid;
+    color: aquamarine;    
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
